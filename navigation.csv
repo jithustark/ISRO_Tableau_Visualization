@@ -1,0 +1,13 @@
+,Unnamed: 0,Launch Date,Launch Mass,Launch Vehicle,Orbit Type,Application,Remarks
+0,IRNSS-1I,"Apr 12, 2018",1425 kg,PSLV-C41/IRNSS-1I,GSO,Navigation,
+1,IRNSS-1H,"Aug 31, 2017",,PSLV-C39/IRNSS-1H Mission,,Navigation,Launch Unsuccessful
+2,IRNSS-1G,"Apr 28, 2016",1425 kg,PSLV-C33/IRNSS-1G,GEO,Navigation,
+3,IRNSS-1F,"Mar 10, 2016",1425 kg,PSLV-C32/IRNSS-1F,GEO,Navigation,
+4,IRNSS-1E,"Jan 20, 2016",1425 kg,PSLV-C31/IRNSS-1E,GSO,Navigation,
+5,GSAT-15,"Nov 11, 2015",3164 kg,Ariane-5 VA-227,GEO,"Communication, Navigation",
+6,IRNSS-1D,"Mar 28, 2015",1425 kg,PSLV-C27/IRNSS-1D,GSO,Navigation,
+7,IRNSS-1C,"Oct 16, 2014",1425 kg,PSLV-C26/IRNSS-1C,GEO,Navigation,
+8,IRNSS-1B,"Apr 04, 2014",1432 kg,PSLV-C24/IRNSS-1B,GSO,Navigation,
+9,IRNSS-1A,"Jul 01, 2013",1425 kg,PSLV-C22/IRNSS-1A,GSO,Navigation,
+10,GSAT-10,"Sep 29, 2012",3400 kg,Ariane-5 VA-209,GEO,"Communication, Navigation",
+11,GSAT-8,"May 21, 2011",3093 kg,Ariane-5 VA-202,GEO,"Communication, Navigation",

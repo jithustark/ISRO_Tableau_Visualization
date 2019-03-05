@@ -1,0 +1,54 @@
+Launch_Date,Orbit_Type,Application,Remarks,Name,year,month
+19/12/2018,GTO,Communication,Mission successful,GSLV,2018,12
+05/12/2018,GTO,Communication,Mission successful,Ariane,2018,12
+14/11/2018,GTO,Communication,Mission successful,GSLV Mk III,2018,11
+29/03/2018,GSO,Communication,Mission successful,GSLV,2018,3
+29/06/2017,GTO,Communication,Mission successful,Ariane,2017,6
+05/06/2017,GSO,Communication,Mission successful,GSLV Mk III,2017,6
+05/05/2017,GSO,Communication,Mission successful,GSLV,2017,5
+06/10/2016,GSO,Communication,Mission successful,Ariane,2016,10
+11/11/2015,GEO,"Communication, Navigation",Mission successful,Ariane,2015,11
+27/08/2015,GTO,Communication,Mission successful,GSLV,2015,8
+07/12/2014,GSO,Communication,Mission successful,Ariane,2014,12
+05/01/2014,GSO,Communication,Mission successful,GSLV,2014,1
+30/08/2013,GSO,Communication,Mission successful,Ariane,2013,8
+29/09/2012,GEO,"Communication, Navigation",Mission successful,Ariane,2012,9
+15/07/2011,GSO,Communication,Mission successful,PSLV,2011,7
+21/05/2011,GEO,"Communication, Navigation",Mission successful,Ariane,2011,5
+25/12/2010,GSO,Communication,Launch Unsuccessful,GSLV,2010,12
+15/04/2010,GSO,Communication,Launch Unsuccessful,GSLV,2010,4
+02/09/2007,GSO,Communication,Mission successful,GSLV,2007,9
+12/03/2007,GSO,Communication,Mission successful,Ariane5,2007,3
+10/07/2006,GSO,Communication,Launch Unsuccessful,GSLV,2006,7
+22/12/2005,GSO,Communication,Mission successful,Ariane5,2005,12
+05/05/2005,SSPO,Communication,Mission successful,PSLV,2005,5
+20/09/2004,GSO,Communication,Mission successful,GSLV,2004,9
+28/09/2003,GSO,Communication,Mission successful,Ariane5,2003,9
+08/05/2003,GSO,Communication,Mission successful,GSLV,2003,5
+10/04/2003,GSO,"Climate & Environment, Communication",Mission successful,Ariane5,2003,4
+12/09/2002,GSO,"Climate & Environment, Communication",Mission successful,PSLV,2002,9
+24/01/2002,GSO,"Climate & Environment, Communication",Mission successful,Ariane5,2002,1
+18/04/2001,GSO,Communication,Mission successful,GSLV,2001,4
+22/03/2000,GSO,Communication,Mission successful,Ariane,2000,3
+03/04/1999,GSO,Communication,Mission successful,Ariane,1999,4
+04/06/1997,GSO,Communication,Failed in Orbit,Ariane,1997,6
+07/12/1995,GSO,Communication,Mission successful,Ariane,1995,12
+23/07/1993,GSO,Communication,Mission successful,Ariane,1993,7
+10/07/1992,GSO,Communication,Mission successful,Ariane,1992,7
+12/06/1990,GSO,Communication,Mission successful,Delta 4925,1990,6
+22/07/1988,GSO,Communication,Partial Failure in Orbit,Ariane,1988,7
+30/08/1983,GSO,Communication,Mission successful,Shuttle [PAM,1983,8
+10/04/1982,GSO,Communication,Failed in Orbit,Delta,1982,4
+19/06/1981,GSO,"Communication, Experimental",Mission successful,Ariane ,1981,6
+12/04/2018,GSO,Navigation,Mission successful,PSLV,2018,4
+31/08/2017,GSO,Navigation,Launch Unsuccessful,PSLV,2017,8
+28/04/2016,GEO,Navigation,Mission successful,PSLV,2016,4
+10/03/2016,GEO,Navigation,Mission successful,PSLV,2016,3
+20/01/2016,GSO,Navigation,Mission successful,PSLV,2016,1
+11/11/2015,GEO,"Communication, Navigation",Mission successful,Ariane,2015,11
+28/03/2015,GSO,Navigation,Mission successful,PSLV,2015,3
+16/10/2014,GEO,Navigation,Mission successful,PSLV,2014,10
+04/04/2014,GSO,Navigation,Mission successful,PSLV,2014,4
+01/07/2013,GSO,Navigation,Mission successful,PSLV,2013,7
+29/09/2012,GEO,"Communication, Navigation",Mission successful,Ariane,2012,9
+21/05/2011,GEO,"Communication, Navigation",Mission successful,Ariane,2011,5

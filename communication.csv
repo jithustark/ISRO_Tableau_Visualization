@@ -1,0 +1,42 @@
+,Unnamed: 0,Launch Date,Launch Mass,Launch Vehicle,Orbit Type,Application,Remarks
+0,GSAT-7A,"Dec 19, 2018",,GSLV-F11 / GSAT-7A Mission,,Communication,
+1,GSAT-11 Mission,"Dec 05, 2018",5854 kg,Ariane-5 VA-246,GTO,Communication,
+2,GSAT-29,"Nov 14, 2018",3423 kg,GSLV Mk III-D2 / GSAT-29 Mission,GTO,Communication,
+3,GSAT-6A,"Mar 29, 2018",,GSLV-F08/GSAT-6A Mission,GSO,Communication,
+4,GSAT-17,"Jun 29, 2017",3477 kg,Ariane-5 VA-238,GTO,Communication,
+5,GSAT-19,"Jun 05, 2017",3136 Kg,GSLV Mk III-D1/GSAT-19 Mission,GSO,Communication,
+6,GSAT-9,"May 05, 2017",2230 kg,GSLV-F09 / GSAT-9,GSO,Communication,
+7,GSAT-18,"Oct 06, 2016",3404 kg,Ariane-5 VA-231,GSO,Communication,
+8,GSAT-15,"Nov 11, 2015",3164 kg,Ariane-5 VA-227,GEO,"Communication, Navigation",
+9,GSAT-6,"Aug 27, 2015",2117 kg,GSLV-D6,GTO,Communication,
+10,GSAT-16,"Dec 07, 2014",3181.6 kg,Ariane-5 VA-221,GSO,Communication,
+11,GSAT-14,"Jan 05, 2014",1982 kg,GSLV-D5/GSAT-14,GSO,Communication,
+12,GSAT-7,"Aug 30, 2013",2650 kg,Ariane-5 VA-215,GSO,Communication,
+13,GSAT-10,"Sep 29, 2012",3400 kg,Ariane-5 VA-209,GEO,"Communication, Navigation",
+14,GSAT-12,"Jul 15, 2011",1410 kg,PSLV-C17/GSAT-12,GSO,Communication,
+15,GSAT-8,"May 21, 2011",3093 kg,Ariane-5 VA-202,GEO,"Communication, Navigation",
+16,GSAT-5P,"Dec 25, 2010",2310 kg,GSLV-F06 / GSAT-5P,GSO,Communication,Launch Unsuccessful
+17,GSAT-4,"Apr 15, 2010",2220 Kg,GSLV-D3 / GSAT-4,GSO,Communication,Launch Unsuccessful
+18,INSAT-4CR,"Sep 02, 2007","2,130 kg",GSLV-F04 / INSAT-4CR,GSO,Communication,
+19,INSAT-4B,"Mar 12, 2007",3025 Kg,Ariane5,GSO,Communication,
+20,INSAT-4C,"Jul 10, 2006",,GSLV-F02 / INSAT-4C,GSO,Communication,Launch Unsuccessful
+21,INSAT-4A,"Dec 22, 2005",3081 Kg,Ariane5-V169,GSO,Communication,
+22,HAMSAT,"May 05, 2005",,PSLV-C6/CARTOSAT-1/HAMSAT,SSPO,Communication,
+23,EDUSAT,"Sep 20, 2004",1950.5 kg,GSLV-F01 / EDUSAT(GSAT-3),GSO,Communication,
+24,INSAT-3E,"Sep 28, 2003","2,775 Kg",Ariane5-V162,GSO,Communication,
+25,GSAT-2,"May 08, 2003",1800 Kg,GSLV-D2 / GSAT-2,GSO,Communication,
+26,INSAT-3A,"Apr 10, 2003","2,950 Kg",Ariane5-V160,GSO,"Climate & Environment, Communication",
+27,KALPANA-1,"Sep 12, 2002",1060 Kg,PSLV-C4 /KALPANA-1,GSO,"Climate & Environment, Communication",
+28,INSAT-3C,"Jan 24, 2002","2,650 Kg",Ariane5-V147,GSO,"Climate & Environment, Communication",
+29,GSAT-1,"Apr 18, 2001",1530 Kg,GSLV-D1 / GSAT-1,GSO,Communication,
+30,INSAT-3B,"Mar 22, 2000","2,070 Kg",Ariane-5G,GSO,Communication,
+31,INSAT-2E,"Apr 03, 1999","2,550 Kg",Ariane-42P H10-3,GSO,Communication,
+32,INSAT-2D,"Jun 04, 1997",2079 Kg,Ariane-44L H10-3,GSO,Communication,Failed in Orbit
+33,INSAT-2C,"Dec 07, 1995",2106 Kg,Ariane-44L H10-3,GSO,Communication,
+34,INSAT-2B,"Jul 23, 1993",1906 kg,Ariane-44L H10+,GSO,Communication,
+35,INSAT-2A,"Jul 10, 1992",1906 kg,Ariane-44L H10,GSO,Communication,
+36,INSAT-1D,"Jun 12, 1990",,Delta 4925,GSO,Communication,
+37,INSAT-1C,"Jul 22, 1988",,Ariane-3,GSO,Communication,Partial Failure in Orbit
+38,INSAT-1B,"Aug 30, 1983",,Shuttle [PAM-D],GSO,Communication,
+39,INSAT-1A,"Apr 10, 1982",,Delta,GSO,Communication,Failed in Orbit
+40,APPLE,"Jun 19, 1981",670 kg,Ariane -1(V-3),GSO,"Communication, Experimental",
